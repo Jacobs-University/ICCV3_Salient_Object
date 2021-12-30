@@ -1,6 +1,6 @@
 # Impelmentation of the the PFA MODEL.
 
-First we install dependecies. The code is written python 3.7.
+First we install dependecies. The code is written in python 3.7 enviorment.
 
 Following are the dependencies to train the model.
   
