@@ -7,15 +7,15 @@
 3.Torch Vision - 0.7
 4.Detectron2
 5.Google Colab
+6.Opencv
 
 **Train Model**
 
-1.Download the model from https://jacobsuniversity-my.sharepoint.com/:f:/g/personal/dbohra_jacobs-university_de/EhpQPjQ35VJOkFHpJ7PjNKABoR-Ru5ggILvZ1kxT-4xX8w?e=fl8s8B .
-To train the images please use the images under DUTS-TR folder. Please make the corresponding changes file path changes in the run.py, dataset.py.
-In command line run the code as python run.py --mode train
+1.Download the model from https://jacobsuniversity-my.sharepoint.com/:f:/g/personal/dbohra_jacobs-university_de/EqUiMLX2j-ZEghWJfg1qG3oBhJnmojYgL8MZBXJDwcq31A?e=FZVMEC and weights from https://jacobsuniversity-my.sharepoint.com/:f:/g/personal/dbohra_jacobs-university_de/EirVVE-MtmtKjGSe3uXVNIIBdj6qYogNJW5NB1wsXd1chA?e=gjxnSL
+2.To train the images please use the images under SCAS_Dataset/train/* all folders. Please make the corresponding changes file path changes in Train_SC_Model.py
+3.In command line run the code as python Train_SC_Model.py
 
 **Test Model**
-
-Download the weight and model from https://jacobsuniversity-my.sharepoint.com/:f:/g/personal/dbohra_jacobs-university_de/EhpQPjQ35VJOkFHpJ7PjNKABoR-Ru5ggILvZ1kxT-4xX8w?e=fl8s8B .
-To train the images please use the images under DUTS-TR/DUTS-TR-Image/ folder. Please make the corresponding changes file path changes in the run.py, dataset.py.
-In command line run the code as python run.py --mode test --sal_mode p
+1.Download the model from https://jacobsuniversity-my.sharepoint.com/:f:/g/personal/dbohra_jacobs-university_de/EqUiMLX2j-ZEghWJfg1qG3oBhJnmojYgL8MZBXJDwcq31A?e=FZVMEC and weights from https://jacobsuniversity-my.sharepoint.com/:f:/g/personal/dbohra_jacobs-university_de/EirVVE-MtmtKjGSe3uXVNIIBdj6qYogNJW5NB1wsXd1chA?e=gjxnSL
+2.To test the images please use the images under SCAS_Dataset/val/* all folders. Please make the corresponding changes file path changes in the Test_SC_Model.py
+3.In command line run the code as python Test_SC_Model.py
