@@ -1,4 +1,4 @@
-# ICCV3_Salient_Object
+# ICCV Scene Context-Aware Salient Object Detection 
 ICCV 3 - Scene Context-Aware Salient Object Detection
 
 This repository implements Scene Context-Aware Object Detection based on this paper : https://openaccess.thecvf.com/content/ICCV2021/papers/Siris_Scene_Context-Aware_Salient_Object_Detection_ICCV_2021_paper.pdf
