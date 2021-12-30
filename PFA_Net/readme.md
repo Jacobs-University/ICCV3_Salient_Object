@@ -17,7 +17,7 @@ Download the data from the data directory. And follow the same folder structure 
 
 ## Training
 
-Intially, create same directory and sub directory folders as shown in the github link. Then use command ## python train.py in your prefer enviorment.
+Intially, create same directory and sub directory folders as shown in the github link. Then use command python train.py in your prefer enviorment.
 
 ## Models
 In the model folder you can download the files from this link https://jacobsuniversity-my.sharepoint.com/:f:/g/personal/pkashid_jacobs-university_de/Ene81PkIBiJCrtkR_yEqUZUBFTU4SJBkM-UgolI7FvnBgw?e=jgWvSl and comapre a loss.
