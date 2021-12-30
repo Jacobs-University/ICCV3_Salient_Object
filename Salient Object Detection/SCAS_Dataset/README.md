@@ -13,3 +13,6 @@ Pycocotools
 Cython
 
 Installation of Detectron2 can be done with this link.
+https://dgmaxime.medium.com/how-to-easily-install-detectron2-on-windows-10-39186139101c
+
+
