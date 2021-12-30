@@ -13,7 +13,7 @@ Following are the dependencies to train the model.
 Else intsall the dependecies using https://github.com/Jacobs-University/ICCV3_Salient_Object/blob/main/PFA_Net/requirements.txt file.
 
 ## Data
-Download the data from the data directory. And follow the same folder structure which has given in the model to train the model. Otherwise download data zip file.
+Download the data from the data directory. And follow the same folder structure which has given in the data directory to train the model. Otherwise download data zip file.
 
 ## Training
 
