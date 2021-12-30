@@ -6,9 +6,7 @@ This repository implements Scene Context-Aware Object Detection based on this pa
 NOTE : Detectron2 is not originally for supported for Windows so it can give issues while installation.
 
 
-For Salient Object Detection - The train and test images can be found under SCAS_Dataset.
-For BASNet - 
-For EGNet - 
+For Salient Object Detection - The train and test images can be found under SCAS_Dataset. 
 In this repository you can also find Salinet Object Detection done with other methods such as:
 
 1. BASNet - Boundary-Aware Segmentation Network
