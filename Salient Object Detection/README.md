@@ -1,4 +1,4 @@
-ICCV3 Submission EGNET
+ICCV Submission Salient Object Detection
 
 Prerequistes
 
