@@ -19,3 +19,6 @@
 1.Download the model from https://jacobsuniversity-my.sharepoint.com/:f:/g/personal/dbohra_jacobs-university_de/EqUiMLX2j-ZEghWJfg1qG3oBhJnmojYgL8MZBXJDwcq31A?e=FZVMEC and weights from https://jacobsuniversity-my.sharepoint.com/:f:/g/personal/dbohra_jacobs-university_de/EirVVE-MtmtKjGSe3uXVNIIBdj6qYogNJW5NB1wsXd1chA?e=gjxnSL
 2.To test the images please use the images under SCAS_Dataset/val/* all folders. Please make the corresponding changes file path changes in the Test_SC_Model.py
 3.In command line run the code as python Test_SC_Model.py
+
+**Output**
+Output would be visible under saliency prediction folder
